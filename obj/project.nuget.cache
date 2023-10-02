@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J4ZwVAWhNpyDl7tfauCtje6hPkQJUywHXLioU0ZXSxbxvwqX0xM4HkRY+8V8hsu1HG7C8OJgYAPTFQHhxZRq2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mrunmayee D Solkar\\source\\repos\\HRMS_APP\\HRMS_APP\\HRMS_APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mrunmayee D Solkar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
